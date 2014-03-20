@@ -1,0 +1,110 @@
+{
+  "format": "browser-program-pre1",
+  "page": "app.html",
+  "manifest": [
+    {
+      "path": "80520793cfe0084eff92109c3abca0640fc7c4d1.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/80520793cfe0084eff92109c3abca0640fc7c4d1.js",
+      "size": 669398,
+      "hash": "80520793cfe0084eff92109c3abca0640fc7c4d1"
+    },
+    {
+      "path": "9d03c1362c46a19bafc0c07ef4068249f6ba0cfc.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/9d03c1362c46a19bafc0c07ef4068249f6ba0cfc.css",
+      "size": 607276,
+      "hash": "9d03c1362c46a19bafc0c07ef4068249f6ba0cfc"
+    },
+    {
+      "path": "packages/bootstrap/img/glyphicons-halflings.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap/img/glyphicons-halflings.png",
+      "size": 12799,
+      "hash": "84f613631b07d4fe22acbab50e551c0fe04bd78b"
+    },
+    {
+      "path": "packages/bootstrap/img/glyphicons-halflings-white.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap/img/glyphicons-halflings-white.png",
+      "size": 8777,
+      "hash": "a25c4705320fd63c33790e666872910e702b9bf6"
+    },
+    {
+      "path": "packages/bootstrap3-less/bootstrap/img/glyphicons-halflings.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap3-less/bootstrap/img/glyphicons-halflings.png",
+      "size": 12799,
+      "hash": "84f613631b07d4fe22acbab50e551c0fe04bd78b"
+    },
+    {
+      "path": "packages/bootstrap3-less/bootstrap/img/glyphicons-halflings-white.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap3-less/bootstrap/img/glyphicons-halflings-white.png",
+      "size": 8777,
+      "hash": "a25c4705320fd63c33790e666872910e702b9bf6"
+    },
+    {
+      "path": "packages/x-editable-bootstrap/lib/bootstrap-editable/img/clear.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/x-editable-bootstrap/lib/bootstrap-editable/img/clear.png",
+      "size": 509,
+      "hash": "9cf9c382899e5b17be2a395ca87a13dfb077f9c4"
+    },
+    {
+      "path": "packages/x-editable-bootstrap/lib/bootstrap-editable/img/loading.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/x-editable-bootstrap/lib/bootstrap-editable/img/loading.gif",
+      "size": 1849,
+      "hash": "dcabdd743fd3e9d7bd5647abeb86e66a3e6f9597"
+    },
+    {
+      "path": "app/favicon.ico",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon.ico",
+      "size": 318,
+      "hash": "04db01b4a775ad4bc83a0b6714e02314fa6449a6"
+    },
+    {
+      "path": "app/robots.txt",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/robots.txt",
+      "size": 23,
+      "hash": "2b76b1757480128723f3613747804aab86e812f4"
+    },
+    {
+      "path": "app/img/spinner.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/spinner.gif",
+      "size": 2004,
+      "hash": "9561f7b016c8fd5719f92abb3716fc0e60adc22d"
+    },
+    {
+      "path": "app.html",
+      "where": "internal",
+      "hash": "688af5620923c36e1f7ddb498226ed19a9e70a82"
+    }
+  ]
+}
